@@ -10,7 +10,7 @@ while True:
         temperature = int(temperature)
     else:
         temperature = int(temperature)
-    print(temperature)
+    print(f"Temperature:{temperature}"°C)
     if temperature >= 30 and send == 0:
         message()
         send = 1 

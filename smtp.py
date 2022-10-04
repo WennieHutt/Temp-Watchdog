@@ -5,9 +5,9 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 def message():
-    email_user = 'temperautre.alert@gmail.com'        #Enter sender's mail.
-    email_password = 'cxeqhwlijhmepmmc'#Enter sender's mail email_password
-    email_send = 'nellyperez1111@gmail.com'   #Enter reveiver's email.
+    email_user = ''        #Enter sender's mail.
+    email_password = ''#Enter sender's mail email_password
+    email_send = ''   #Enter receiver's email.
 
     subject = 'Temperature'
 
